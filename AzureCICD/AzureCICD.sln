@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureCICD", "AzureCICD\AzureCICD.csproj", "{AE019A44-0BCB-4C62-86F5-84B9B143CC6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureCICD.Test", "AzureCICD.Test\AzureCICD.Test.csproj", "{10C6CCF7-5C2A-43ED-8D26-21CFFC76D045}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE019A44-0BCB-4C62-86F5-84B9B143CC6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE019A44-0BCB-4C62-86F5-84B9B143CC6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE019A44-0BCB-4C62-86F5-84B9B143CC6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE019A44-0BCB-4C62-86F5-84B9B143CC6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10C6CCF7-5C2A-43ED-8D26-21CFFC76D045}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10C6CCF7-5C2A-43ED-8D26-21CFFC76D045}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10C6CCF7-5C2A-43ED-8D26-21CFFC76D045}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10C6CCF7-5C2A-43ED-8D26-21CFFC76D045}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E399C945-B3D9-4FB6-A877-E69D57D77DAD}
+	EndGlobalSection
+EndGlobal
